@@ -3,11 +3,11 @@ The **miniEsp** is my solution to the limitations of the ESP-01 module. One of t
 
 I also included an ME6211 voltage regulator chip to ensure the ESP-12F stays safe when powered by 5V sources. Despite being slightly bigger than the ESP-01, the miniEsp keeps the same pin header format, so it’s just as easy to use and integrate.
 
-![pic1.jpg]([https://raw.githubusercontent.com/wagiminator/ATtiny13-TinySolder/master/documentation/TinySolder_pic1.jpg](https://github.com/valeriantora/miniEsp/blob/main/documentation/miniEsp1.jpg))
+![Esp1.jpg](documentation/miniEsp1.jpg)
 
-![pic2.jpg]([https://raw.githubusercontent.com/wagiminator/ATtiny13-TinySolder/master/documentation/TinySolder_pic1.jpg](https://github.com/valeriantora/miniEsp/blob/main/documentation/miniEsp2.jpg))
+![Esp1.jpg](documentation/miniEsp2.jpg)
 
-![pic3.jpg]([https://raw.githubusercontent.com/wagiminator/ATtiny13-TinySolder/master/documentation/TinySolder_pic1.jpg](https://github.com/valeriantora/miniEsp/blob/main/documentation/miniEsp3.jpg))
+![Esp1.jpg](documentation/miniEsp3.jpg)
 
 ## References
 - [ESP-12F Datasheet](https://docs.ai-thinker.com/_media/esp8266/docs/esp-12f_product_specification_en.pdf)
