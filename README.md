@@ -25,5 +25,5 @@ The key concerns when designing miniEsp with ESP8266-based boards like the ESP-0
 Despite the increased size, the miniEsp keeps the same pin header format as the ESP-01, which means it is still compatible with existing projects that use the ESP-01’s pinout. This ensures that it can be easily integrated into new and existing setups without requiring significant changes to my hardware design.
 
 ## References
-- [ESP-12F Datasheet]([https://docs.ai-thinker.com/_media/esp8266/docs/esp-12f_product_specification_en.pdf](https://aithinker-static.oss-cn-shenzhen.aliyuncs.com/docs/_media_old/esp-12f_product_specification_en.pdf))
+- [ESP-12F Datasheet](https://aithinker-static.oss-cn-shenzhen.aliyuncs.com/docs/_media_old/esp-12f_product_specification_en.pdf)
 - [ME6211 Datasheet](https://www.lcsc.com/datasheet/lcsc_datasheet_2410121248_MICRONE-Nanjing-Micro-One-Elec-ME6211C30M5G_C94042.pdf)
